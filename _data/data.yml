@@ -42,14 +42,12 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Pour mieux me connaître
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Passioné depuis tout jeune par le monde de l'informatique et de l'électronique, j'ai su faire de mes passions mon métier.
+        Au début de ma vie professionnelle j'ai exploité mes compétences en électronique dans différents secteurs dont la sécurité électronique, le monde du spectacle et pour finir le nautisme. 
+        J'ai eu l'occasion de développer "from scratch" le site internet de l'un de mes employeurs pour un nouveau produit et cette expérience inédite m'a convaincu d'entreprendre de nouvelles études afin de devenir développeur web.
+        Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
 education:
     - degree: MSc in Computer Science
       university: University of London
