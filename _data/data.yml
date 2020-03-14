@@ -46,7 +46,9 @@ career-profile:
     summary: |
         Passioné depuis tout jeune par le monde de l'informatique et de l'électronique, j'ai su faire de mes passions mon métier.
         Au début de ma vie professionnelle j'ai exploité mes compétences en électronique dans différents secteurs dont la sécurité électronique, le monde du spectacle et pour finir le nautisme. 
+        
         J'ai eu l'occasion de développer "from scratch" le site internet de l'un de mes employeurs pour un nouveau produit et cette expérience inédite m'a convaincu d'entreprendre de nouvelles études afin de devenir développeur web.
+        
         Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
 education:
     - degree: MSc in Computer Science
