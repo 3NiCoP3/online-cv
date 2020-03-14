@@ -56,23 +56,23 @@ experiences:
       company: TimeOne, Pessac
       details: |
         Environnement de travail à Time One :
-            - Intégration au sein d'une équipe d'une vingtaine de développeurs spécialisés dans l'affiliation.
-            - Rataché au service support qui est le garant du bon fonctionnement des outils de la société. 
+          - Intégration au sein d'une équipe d'une vingtaine de développeurs spécialisés dans l'affiliation.
+          - Rataché au service support qui est le garant du bon fonctionnement des outils de la société. 
             
         Fonctions au sein de Time One : 
-            - Débug de code, ajout de fonctionnalités minimes, changement de comportement d'un outil, ajout d'API clients.
-            - Formation utilisateurs
-            - Contact avec les services IT des clients.
+          - Débug de code, ajout de fonctionnalités minimes, changement de comportement d'un outil, ajout d'API clients.
+          - Formation utilisateurs
+          - Contact avec les services IT des clients.
 
         Outils de développement Time One:
-            - Framework PHP en 5.4
-            - Symfony 4.3, 
-            - Airflow : outil de gestion des tâches sous Python 
-            - ORM Eloquent.
-            - Workflow Gitflow
-            - Gitlab CI/CD : intégration et deploiment continue 
-            - Lint Commit et PHPUnit : Environement de test et sécurisation du code 
-            - Docker
+          - Framework PHP en 5.4
+          - Symfony 4.3, 
+          - Airflow : outil de gestion des tâches sous Python 
+          - ORM Eloquent.
+          - Workflow Gitflow
+          - Gitlab CI/CD : intégration et deploiment continue 
+          - Lint Commit et PHPUnit : Environement de test et sécurisation du code 
+          - Docker
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
