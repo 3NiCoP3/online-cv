@@ -50,45 +50,29 @@ career-profile:
         J'ai eu l'occasion de développer "from scratch" le site internet de l'un de mes employeurs pour un nouveau produit et cette expérience inédite m'a convaincu d'entreprendre de nouvelles études afin de devenir développeur web.
         
         Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developpeur Back End
+      time: 2018 - En cours
+      company: TimeOne, Pessac
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Environnement de travail à Time One :
+            - Intégration au sein d'une équipe d'une vingtaine de développeurs spécialisés dans l'affiliation.
+            - Rataché au service support qui est le garant du bon fonctionnement des outils de la société. 
+            
+        Fonctions au sein de Time One : 
+            - Débug de code, ajout de fonctionnalités minimes, changement de comportement d'un outil, ajout d'API clients.
+            - Formation utilisateurs
+            - Contact avec les services IT des clients.
+
+        Outils de développement Time One:
+            - Framework PHP en 5.4
+            - Symfony 4.3, 
+            - Airflow : outil de gestion des tâches sous Python 
+            - ORM Eloquent.
+            - Workflow Gitflow
+            - Gitlab CI/CD : intégration et deploiment continue 
+            - Lint Commit et PHPUnit : Environement de test et sécurisation du code 
+            - Docker
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
