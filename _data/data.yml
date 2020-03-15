@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -73,28 +73,32 @@ experiences:
           - Gitlab CI/CD : intégration et deploiment continue 
           - Lint Commit et PHPUnit : Environement de test et sécurisation du code 
           - Docker
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technicien en électronique 
+      time: Mai 2018 - Octobre 2018
+      company: Furuno (Systèmes électronique nautique), Mérignac
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+       Techinicien sédentaire en ateliers, je devais gérer les pannes des appareils depuis l'arrivée du produit en atelier jusqu'à son départ :
+          - Relation client (diagnostique de la panne, gestion du suivi).
+          - Réalisation de devis.
+          - Réparation des dommages des appareils
+          - Relation quotidienne avec les ingénieurs de l'entreprise situés au Japon.
+          - Apport de mon expertise sur les produits pour conseiller  les commerciaux sur la vente de produits de l'entreprise.
+
+    - role: Technicien en électronique/Developpeur Web 
+      time: Mars 2017 - Avril 2018
+      company: Overline Systems (Systèmes d'intercommunication), Andernos-Les-Bains
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Missions réalisées :
+         - Installer et maintenir un système d'intercommunication pour les chaînes TV lors de représentations évennemetielles  (Opéra de Paris, Comédie Française, Dysney Paris, 24h du Mans, Roland Garros)
+         - Dépanner des produits, réparer des installations pour les futurs évènements où l'entreprise était solicitée.
+         
+        Missions confiées suite à l'évolution des besoins de l'entreprise :
+         - Développer un nouveau site web "from scratch" vitrine traduit en trois langues (ES, EN, FR) pour un nouveau produit (www.digitear.eu). Sublim Text, HTML, CSS, Bootstrapp, PHP.
+         - Communiquer (articles, présence sur les salons...) sur l'entreprise au travers des sites LinkedIn et Facebook.
+         - Créer du contenu sur le site afin de donner de la vision sur l'évolution du produit Digitear.
+         - Concevoir de la documentations sous sur le produit Digitear en plusieurs langues. InDesign, Illustratot, Photoshop.
+         - Communiquer avec les distributeurs dans plusieurs pays.
+
 projects:
     title: Projects
     intro: >
