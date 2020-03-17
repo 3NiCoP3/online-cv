@@ -98,6 +98,28 @@ experiences:
          - Créer du contenu sur le site afin de donner de la vision sur l'évolution du produit Digitear.
          - Concevoir de la documentations sur le produit Digitear en plusieurs langues. InDesign, Illustrator, Photoshop.
          - Communiquer avec les distributeurs dans plusieurs pays.
+        
+    - role: Technicien en électronique/Developpeur Web 
+      time: Mars 2017 - Avril 2018
+      company: Onet Sécurité : Telem (Sécurité Electronique), Pessac
+      details: |
+        Technicien installation :
+         - Suivis de plans d'installation de systèmes en sécurité électronique
+         - Installations de matériels électroniques (serrures de portes, serrures de coffres pilotés, controls d'accès, alarmes, vidéosurveilliance...) et tests
+         - Réception de chantiers en présence du client
+
+        Technicien SAV sur la région Nouvelle-Aquitaine :
+         - Interventions à domiciles et en agences clients (banques, banques de France, etc)
+         - Coordination de petites installations de systèmes en sécurité électronique 
+         - Programmation de centrales d'alarme, controles d'accès, vidéos surveillance (IP et Analogique)
+         - Analyse du dépannage et des évolutions possibles pour améliorer la qualité de l'installation
+         - Suivis du stock de matériel
+
+        Technicien en vidéoprotection
+         - Passage du CACES pour piloter une necelle
+         - Création de réseaux fibre et ethernet
+         - Installations de vidéoprotections sur un site militaire et en ville
+         - Programmation de routeur réseau
 
 projects:
     title: Projects
@@ -152,22 +174,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP (From Scratch, Symfony)
+        level: 70%
+        
+      - name: MySQL
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Dart (Flutter)
+        level: 40%
 
-      - name: Angular
-        level: 98%
+      - name: HTML5 & CSS (Bootstrapp)
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: JAVA(JSE 1.8.0, Maven)
+        level: 30%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Suite Adobe (Illustrator, InDesign, Photoshop)
         level: 60%
 
 footer: >
