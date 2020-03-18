@@ -122,31 +122,44 @@ experiences:
          - Programmation de routeur réseau
 
 projects:
-    title: Projects
+    title: Outils/Methode
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Liste d'outils que j'utilise fréquemment
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: IDE
+        tagline: PHPStorm, IntelliJ
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Administration et Requêtage
+        tagline: DBeaver, PMA
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Inégration & Déploiement Continue
+        tagline: Gitlab CI/CD
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Gestion de tickets & projet
+        tagline: Redmine, Outils Gitlab
+        
+      - title: Gestion tâches CRON
+        tagline: Airflow
+        
+      - title: Gestion des Logs
+        tagline: Graylog
+        
+      - title: Versionning/Workflow
+        tagline: Git, Gitflow
+        
+      - title: Méthodologie
+        tagline: Agile/Scrum
+        
+      - title: Communication/Planification
+        tagline: Mattermost, GSuite
+        
+      - title: Conteneurisation
+        tagline: Docker, Docker Swarm
+        
+      - title: Support bonne pratique
+        tagline: commitLint
+       
+        
 
 publications:
     title: Publications
