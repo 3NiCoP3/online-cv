@@ -125,8 +125,7 @@ projects:
     title: Projets
     intro: |
       Un petit récapitulatif de mets projets réalisé lorsde mon temps personnel et scolaire
-    project:
-      - title: Application tablette sous Android
+    title: Application tablette sous Android
         gitlab: NicolasMaurin/frontera
         details: | 
             Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
@@ -137,7 +136,7 @@ projects:
              - Versionning : Gitlab
              - Méthodo : Flux tiré
 
-      - title: Plateforme gestion d'équipe
+    title: Plateforme gestion d'équipe
         gitlab: NicolasMaurin/frontera
         details: | 
             Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
@@ -153,7 +152,7 @@ projects:
              - Requêtage : DBeaver/PMA
              - Méthodo : Flux tiré
 
-      - title: Image LAMP Docker
+     title: Image LAMP Docker
         gitlab: NicolasMaurin/lamp
         details: | 
             Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
