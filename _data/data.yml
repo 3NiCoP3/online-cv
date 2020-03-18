@@ -17,7 +17,7 @@ sidebar:
     website: #do not add http://
     linkedin: nicolasmaurin
     github: 3NiCoP3
-    gitlab:
+    gitlab: NicolasMaurin
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -121,6 +121,46 @@ experiences:
          - Installations de vidéoprotections sur un site militaire et en ville
          - Programmation de routeur réseau
 
+projects:
+    title: Projets
+    intro: |
+      Un petit récapitulatif de mets projets réalisé lorsde mon temps personnel et scolaire
+    project:
+      - title: Application tablette sous Android
+        gitlab: NicolasMaurin/frontera
+        details: | 
+            Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
+             - IDE : IntelliJ
+             - Gestion des tâches : JIRA
+             - Front : Flutter
+             - Gestion équipe : Discord
+             - Versionning : Gitlab
+             - Méthodo : Flux tiré
+
+      - title: Plateforme gestion d'équipe
+        gitlab: NicolasMaurin/frontera
+        details: | 
+            Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
+             - IDE : PHPStorm
+             - Gestion des tâches : Outils Gitlab
+             - Back : Symfony 4.3
+             - Front : HTML/CSS/Bootstrapp
+             - Gestion équipe : GSuite/Mattermost
+             - Versionning : Gitlab
+             - Sécurisation Code : commitLint
+             - Conteneurisation : Docker
+             - SgBDD : MariaDB
+             - Requêtage : DBeaver/PMA
+             - Méthodo : Flux tiré
+
+      - title: Image LAMP Docker
+        gitlab: NicolasMaurin/lamp
+        details: | 
+            Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
+             - IDE : PHPStorm
+             - Versionning : Gitlab
+             - Conteneurisation : Docker
+
 outil:
     title: Outils/Methode
     intro: >
@@ -159,30 +199,6 @@ outil:
       - title: Support bonne pratique
         tagline: commitLint
        
-        
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
