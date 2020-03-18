@@ -121,13 +121,9 @@ experiences:
          - Installations de vidéoprotections sur un site militaire et en ville
          - Programmation de routeur réseau
 
-projects:
-    title: Projets
-    intro: |
-      Un petit récapitulatif de mets projets réalisé lorsde mon temps personnel et scolaire
-    title: Application tablette sous Android
-        gitlab: NicolasMaurin/frontera
-        details: | 
+projets:
+    - role: Application tablette sous Android
+      details: |
             Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
              - IDE : IntelliJ
              - Gestion des tâches : JIRA
@@ -135,10 +131,9 @@ projects:
              - Gestion équipe : Discord
              - Versionning : Gitlab
              - Méthodo : Flux tiré
-
-    title: Plateforme gestion d'équipe
-        gitlab: NicolasMaurin/frontera
-        details: | 
+             
+    - role: Plateforme gestion d'équipe
+      details: |
             Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
              - IDE : PHPStorm
              - Gestion des tâches : Outils Gitlab
@@ -152,9 +147,8 @@ projects:
              - Requêtage : DBeaver/PMA
              - Méthodo : Flux tiré
 
-     title: Image LAMP Docker
-        gitlab: NicolasMaurin/lamp
-        details: | 
+    - role: Image LAMP Docker
+      details: |
             Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
              - IDE : PHPStorm
              - Versionning : Gitlab
