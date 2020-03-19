@@ -122,19 +122,23 @@ experiences:
          - Programmation de routeur réseau
 
 projects:
-    - role: Application tablette sous Android
-      details: |
-            Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
+    title: Projets
+    intro: >
+        Un petit récapitulatif de mets projets réalisé lorsde mon temps personnel et scolaire.
+    assignments:
+      - title: Application tablette sous Android
+        link: "NicolasMaurin/frontera"
+        tagline: "Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
              - IDE : IntelliJ
              - Gestion des tâches : JIRA
              - Front : Flutter
              - Gestion équipe : Discord
              - Versionning : Gitlab
-             - Méthodo : Flux tiré
-             
-    - role: Plateforme gestion d'équipe
-      details: |
-            Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
+             - Méthodo : Flux tiré"   
+
+      - title: Plateforme gestion d'équipe
+        link: "https://family-v.fr/"
+        tagline: "Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
              - IDE : PHPStorm
              - Gestion des tâches : Outils Gitlab
              - Back : Symfony 4.3
@@ -146,13 +150,14 @@ projects:
              - SgBDD : MariaDB
              - Requêtage : DBeaver/PMA
              - Méthodo : Flux tiré
+        "
 
-    - role: Image LAMP Docker
-      details: |
-            Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
+      - title: Image LAMP Docker
+        link: "https://magicmirror.builders/"
+        tagline: "Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
              - IDE : PHPStorm
              - Versionning : Gitlab
-             - Conteneurisation : Docker
+             - Conteneurisation : Docker"
 
 outil:
     title: Outils/Methode
