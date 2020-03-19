@@ -155,7 +155,7 @@ projects:
       - title: Image LAMP Docker
         link: "https://magicmirror.builders/"
         tagline: "Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
-             - IDE : PHPStorm
+             - IDE -> PHPStorm
              - Versionning -> Gitlab
              - Conteneurisation -> Docker"
 
@@ -196,28 +196,31 @@ outil:
         
       - title: Support bonne pratique
         tagline: commitLint
+        
+      - title: Système d'exploitation
+        tagline: Windows 10, Linux Manjaro, Linux Ubuntu
        
 skills:
     title: compétences
 
     toolset:
       - name: PHP (From Scratch, Symfony)
-        level: 70%
+        level: 80%
         
       - name: MySQL
         level: 80%
 
+      - name: HTML5 & CSS (Bootstrapp)
+        level: 80%
+      
+      - name: Suite Adobe (Illustrator, InDesign, Photoshop)
+        level: 60%
+        
       - name: Dart (Flutter)
         level: 40%
 
-      - name: HTML5 & CSS (Bootstrapp)
-        level: 80%
-
       - name: JAVA(JSE 1.8.0, Maven)
         level: 30%
-
-      - name: Suite Adobe (Illustrator, InDesign, Photoshop)
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
