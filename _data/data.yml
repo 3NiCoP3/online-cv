@@ -129,35 +129,35 @@ projects:
       - title: Application tablette sous Android
         link: "NicolasMaurin/frontera"
         tagline: "Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
-             - IDE : IntelliJ
-             - Gestion des tâches : JIRA
-             - Front : Flutter
-             - Gestion équipe : Discord
-             - Versionning : Gitlab
-             - Méthodo : Flux tiré"   
+             - IDE -> IntelliJ
+             - Gestion des tâches -> JIRA
+             - Front -> Flutter
+             - Gestion équipe -> Discord
+             - Versionning -> Gitlab
+             - Méthodo -> Flux tiré"   
 
       - title: Plateforme gestion d'équipe
         link: "https://family-v.fr/"
         tagline: "Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
-             - IDE : PHPStorm
-             - Gestion des tâches : Outils Gitlab
-             - Back : Symfony 4.3
-             - Front : HTML/CSS/Bootstrapp
-             - Gestion équipe : GSuite/Mattermost
-             - Versionning : Gitlab
-             - Sécurisation Code : commitLint
-             - Conteneurisation : Docker
-             - SgBDD : MariaDB
-             - Requêtage : DBeaver/PMA
-             - Méthodo : Flux tiré
+             - IDE -> PHPStorm
+             - Gestion des tâches -> Outils Gitlab
+             - Back -> Symfony 4.3
+             - Front -> HTML/CSS/Bootstrapp
+             - Gestion équipe -> GSuite/Mattermost
+             - Versionning -> Gitlab
+             - Sécurisation Code -> commitLint
+             - Conteneurisation -> Docker
+             - SgBDD -> MariaDB
+             - Requêtage -> DBeaver/PMA
+             - Méthodo -> Flux tiré
         "
 
       - title: Image LAMP Docker
         link: "https://magicmirror.builders/"
         tagline: "Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
              - IDE : PHPStorm
-             - Versionning : Gitlab
-             - Conteneurisation : Docker"
+             - Versionning -> Gitlab
+             - Conteneurisation -> Docker"
 
 outil:
     title: Outils/Methode
