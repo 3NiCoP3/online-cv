@@ -65,6 +65,8 @@ experiences:
           - Contact avec les services IT des clients.
 
         Outils de développement Time One:
+          - Gestion tickets avec Redmine
+          - Gestion projet avec les outils Gitlab
           - Framework PHP en 5.4
           - Symfony 4.3, 
           - Airflow : outil de gestion des tâches sous Python 
