@@ -50,6 +50,34 @@ career-profile:
         J'ai eu l'occasion de développer "from scratch" le site internet de l'un de mes employeurs pour un nouveau produit et cette expérience inédite m'a convaincu d'entreprendre de nouvelles études afin de devenir développeur web.
         
         Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
+
+education:
+    - degree: Responsable en ingénierie des logiciels (RIL) - Bac + 4
+      university: CESI
+      time: 2018 - 2020
+      details: |
+        Recueillir, analyser et formaliser les besoins logiciels de
+        l’entreprise.
+        Élaborer, gérer et piloter un projet d’ingénierie logicielle.
+        Participer à la conception, au développement et au déploiement
+        de la solution.
+        Assurer le maintien en condition opérationnelle des solutions
+        logicielles.
+    - degree: BTS - Système Electronique
+      university: Lycée Alfred Kastler, Talence
+      time: 2009 - 2012
+      details: |
+        balbalbal
+    - degree: BAC STI Génie Electronique 
+      university: Lycée Alfred Kastler, Talence
+      time: 2006 - 2009
+      details: |
+       blablabla
+    - degree: BEP Métiers de l'électronique
+      university: Lycée Jehan Dupérier, Saint Médard en Jalles
+      time: 2004 - 2006
+      details: |
+       blablba
 experiences:
     - role: Developpeur Back End
       time: 2018 - En cours
