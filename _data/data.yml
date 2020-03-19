@@ -124,10 +124,10 @@ experiences:
 projects:
     title: Projets
     intro: >
-        Un petit récapitulatif de mets projets réalisé lorsde mon temps personnel et scolaire.
+        Un petit récapitulatif de mets projets réalisé privés ou publics.
     assignments:
       - title: Application tablette sous Android
-        link: "NicolasMaurin/frontera"
+        link: "https://gitlab.com/NicolasMaurin/frontera"
         tagline: "Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
              - IDE -> IntelliJ
              - Gestion des tâches -> JIRA
@@ -137,7 +137,7 @@ projects:
              - Méthodo -> Flux tiré"   
 
       - title: Plateforme gestion d'équipe
-        link: "https://family-v.fr/"
+        link: "#"
         tagline: "Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
              - IDE -> PHPStorm
              - Gestion des tâches -> Outils Gitlab
@@ -149,11 +149,10 @@ projects:
              - Conteneurisation -> Docker
              - SgBDD -> MariaDB
              - Requêtage -> DBeaver/PMA
-             - Méthodo -> Flux tiré
-        "
+             - Méthodo -> Flux tiré"
 
       - title: Image LAMP Docker
-        link: "https://magicmirror.builders/"
+        link: "https://gitlab.com/NicolasMaurin/lamp"
         tagline: "Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
              - IDE -> PHPStorm
              - Versionning -> Gitlab
@@ -222,5 +221,4 @@ skills:
       - name: JAVA(JSE 1.8.0, Maven)
         level: 30%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: MAURIN Nicolas
