@@ -158,31 +158,32 @@ projects:
              - Versionning -> Gitlab
              - Conteneurisation -> Docker"
 
-outil:
+publications:
     title: Outils/Methode
     intro: >
       Liste d'outils que j'utilise fréquemment
-    assignments:
+    papers:
+    
       - title: IDE
         tagline: PHPStorm, IntelliJ
 
       - title: Administration et Requêtage
-        tagline: DBeaver, PMA
+        conference: DBeaver, PMA
 
       - title: Inégration & Déploiement Continue
-        tagline: Gitlab CI/CD
+        conference: Gitlab CI/CD
 
       - title: Gestion de tickets & projet
-        tagline: Redmine, Outils Gitlab
+        conference: Redmine, Outils Gitlab
         
       - title: Gestion tâches CRON
-        tagline: Airflow
+        conference: Airflow
         
       - title: Gestion des Logs
-        tagline: Graylog
+        conference: Graylog
         
       - title: Versionning/Workflow
-        tagline: Git, Gitflow
+        conference: Git, Gitflow
         
       - title: Méthodologie
         tagline: Agile/Scrum
