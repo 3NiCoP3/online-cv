@@ -121,7 +121,7 @@ experiences:
          - Installations de vidéoprotections sur un site militaire et en ville
          - Programmation de routeur réseau
 
-projets:
+projects:
     - role: Application tablette sous Android
       details: |
             Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
@@ -193,7 +193,7 @@ outil:
         tagline: commitLint
        
 skills:
-    title: Skills &amp; Proficiency
+    title: compétences
 
     toolset:
       - name: PHP (From Scratch, Symfony)
