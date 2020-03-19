@@ -165,7 +165,7 @@ publications:
     papers:
     
       - title: IDE
-        tagline: PHPStorm, IntelliJ
+        conference: PHPStorm, IntelliJ
 
       - title: Administration et Requêtage
         conference: DBeaver, PMA
@@ -186,19 +186,19 @@ publications:
         conference: Git, Gitflow
         
       - title: Méthodologie
-        tagline: Agile/Scrum
+        conference: Agile/Scrum
         
       - title: Communication/Planification
-        tagline: Mattermost, GSuite
+        conference: Mattermost, GSuite
         
       - title: Conteneurisation
-        tagline: Docker, Docker Swarm
+        conference: Docker, Docker Swarm
         
       - title: Support bonne pratique
-        tagline: commitLint
+        conference: commitLint
         
       - title: Système d'exploitation
-        tagline: Windows 10, Linux Manjaro, Linux Ubuntu
+        conference: Windows 10, Linux Manjaro, Linux Ubuntu
        
 skills:
     title: compétences
