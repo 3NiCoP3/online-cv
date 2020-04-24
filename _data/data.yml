@@ -177,13 +177,21 @@ projects:
              - Requêtage -> DBeaver/PMA
              - Méthodo -> Flux tiré"
 
-      - title: Image LAMP Docker
-        link: "https://gitlab.com/NicolasMaurin/lamp"
-        tagline: "Dans le but d'apprendre l'utilisation de Docker, j'ai fork une LAMP et l'ai modifié pour mes besoins :
+      - title: Image PHP/Nginx Docker
+        link: "https://gitlab.com/nicolasmaurin/nginx_php7"
+        tagline: "Dans le but d'apprendre l'utilisation du Container Registry de Gitlab, j'ai créé une stack Docker PHP7+Nginx :
              - IDE -> PHPStorm
              - Versionning -> Gitlab
              - Conteneurisation -> Docker"
-
+             
+      - title: Site pour la gestion de plan de bureau [Encours]
+        link: "https://gitlab.com/nicolasmaurin/project_java"
+        tagline: "Afin de valider nos compétences en JAVA, MAVEN, SPRINGBOOT, nous avons en groupe de trois, créé un site permettant la gestion d'un immeuble de bureaus (étages, zones, équipements, mobiliers, personnels) :
+             - IDE -> PHPStorm
+             - Versionning -> Gitlab
+             - SgBDD -> MariaDB
+             - Administration et Requêtage -> MySQL Workbench"
+             
 publications:
     title: Outils/Methode
     intro: >
@@ -245,7 +253,7 @@ skills:
       - name: Dart (Flutter)
         level: 40%
 
-      - name: JAVA(JSE 1.8.0, Maven)
-        level: 30%
+      - name: JAVA(JSE 1.8.0, Maven, SpringBoot)
+        level: 40%
 
 footer: MAURIN Nicolas
