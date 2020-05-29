@@ -184,7 +184,7 @@ projects:
              - Versionning -> Gitlab
              - Conteneurisation -> Docker"
              
-      - title: Site pour la gestion de plan de bureau [Encours]
+      - title: Site pour la gestion de plan de bureau
         link: "https://gitlab.com/nicolasmaurin/project_java"
         tagline: "Afin de valider nos compétences en JAVA, MAVEN, SPRINGBOOT, nous avons en groupe de trois, créé un site permettant l'aménagement d'un immeuble de bureaux (étages, zones, équipements, mobiliers, personnels) :
              - IDE -> PHPStorm
