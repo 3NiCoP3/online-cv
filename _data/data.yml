@@ -150,7 +150,7 @@ experiences:
 projects:
     title: Projets
     intro: >
-        Un petit récapitulatif de mets projets réalisé privés ou publics.
+        Un petit récapitulatif de mes projets réalisé privés ou publics.
     assignments:
       - title: Application tablette sous Android
         link: "https://gitlab.com/NicolasMaurin/frontera"
