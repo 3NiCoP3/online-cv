@@ -192,6 +192,15 @@ projects:
              - SgBDD -> MariaDB
              - Administration et Requêtage -> MySQL Workbench"
              
+      - title: Gestion des données d'une station météo avec raspberry
+        link: "https://gitlab.com/ElNelyo/flaskSensor"
+        tagline: "En groupe de deux personnes, nous devions gérer les données météo d'un raspberry reçu par une API, les comparer avec les données de météo France, et d'effectuer un graphique de l'ensemble. Tout cela en Python  :
+             - IDE -> IntelliJ
+             - Versionning -> Gitlab
+             - SgBDD -> MariaDB
+             - Requêtage HTTP -> Insomnia
+             - Lib Python3 -> Flask | SQLAlchemy | Matplotlib "
+             
 publications:
     title: Outils/Methode
     intro: >
@@ -255,5 +264,8 @@ skills:
 
       - name: JAVA(JSE 1.8.0, Maven, SpringBoot)
         level: 40%
+        
+      - name: Python 3(Flask, SQLAlchemy, Matplotlib)
+        level: 20%
 
 footer: MAURIN Nicolas
