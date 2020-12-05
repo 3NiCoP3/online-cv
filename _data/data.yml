@@ -79,7 +79,6 @@ experiences:
       details: |
         Environnement de travail à Time One :
           - Intégration au sein d'une équipe d'une vingtaine de développeurs spécialisés dans l'affiliation.
-          - Rataché au service support qui est le garant du bon fonctionnement des outils de la société. 
             
         Fonctions au sein de Time One : 
           - Débug de code, ajout de fonctionnalités minimes, changement de comportement d'un outil, ajout d'API clients.
@@ -89,24 +88,20 @@ experiences:
         Outils de développement Time One:
           - Gestion tickets avec Redmine
           - Gestion projet avec les outils Gitlab
-          - Framework PHP en 5.4
+          - Framework PHP maison en 5.4/5.6
           - Symfony 4.3, 
           - Airflow : outil de gestion des tâches sous Python 
           - ORM Eloquent.
-          - Workflow Gitflow
+          - Workflow : Gitflow
           - Gitlab CI/CD : intégration et deploiment continue 
           - Lint Commit et PHPUnit : Environement de test et sécurisation du code 
           - Docker
+
     - role: Technicien en électronique 
       time: Mai 2018 - Octobre 2018
       company: Furuno (Systèmes électronique nautique), Mérignac
       details: |
-       Techinicien sédentaire en ateliers, je devais gérer les pannes des appareils depuis l'arrivée du produit en atelier jusqu'à son départ :
-          - Relation client (diagnostique de la panne, gestion du suivi).
-          - Réalisation de devis.
-          - Réparation des dommages des appareils
-          - Relation quotidienne avec les ingénieurs de l'entreprise situés au Japon.
-          - Apport de mon expertise sur les produits pour conseiller les commerciaux sur la vente de systèmes.
+       Techinicien sédentaire en ateliers, je devais gérer les pannes des appareils depuis l'arrivée du produit en atelier jusqu'à son départ.
 
     - role: Technicien en électronique/Developpeur Web 
       time: Mars 2017 - Avril 2018
@@ -127,28 +122,13 @@ experiences:
       time: Mars 2013 - Avril 2018
       company: Onet Sécurité Telem (Sécurité Electronique), Pessac
       details: |
-        Technicien installation :
-         - Suivis de plans d'installation de systèmes en sécurité électronique
-         - Installations de matériels électroniques (serrures de portes, serrures de coffres pilotés, controls d'accès, alarmes, vidéosurveilliance...) et tests
-         - Réception de chantiers en présence du client
-
-        Technicien SAV sur la région Nouvelle-Aquitaine :
-         - Interventions à domiciles et en agences clients (banques, banques de France, etc)
-         - Coordination de petites installations de systèmes en sécurité électronique 
-         - Programmation de centrales d'alarme, controles d'accès, vidéos surveillance (IP et Analogique)
-         - Analyse du dépannage et des évolutions possibles pour améliorer la qualité de l'installation
-         - Suivis du stock de matériel
-
-        Technicien en vidéoprotection
-         - Passage du CACES pour piloter une necelle
-         - Création de réseaux fibre et ethernet
-         - Installations de vidéoprotections sur un site militaire et en ville
-         - Programmation de routeur réseau
+         Dans cette entreprise, j’ai progressé sur différents postes, en commençant par technicien installation, puis technicien SAV et technicien en vidéoprotection.
+         Parmi les missions les plus intéressantes, je retiens notamment la programmation de centrales d’alarmes, la création d’un réseau informatique pour la vidéoprotection (fibre et ethernet), et le management d’une équipe de trois techniciens.
 
 projects:
     title: Projets
     intro: >
-        Un petit récapitulatif de mes projets réalisé privés ou publics.
+        Un petit récapitulatif de mes projets réalisés.
     assignments:
       - title: Application tablette sous Android
         link: "https://gitlab.com/NicolasMaurin/frontera"
@@ -162,18 +142,7 @@ projects:
 
       - title: Plateforme gestion d'équipe
         link: "#"
-        tagline: "Dans le cadre de mon projet de fin d'étude en entreprise j'ai du réaliser une nouvelle plateforme pour permettre à mon manager de gérer la vie de l'équipe support :
-             - IDE -> PHPStorm
-             - Gestion des tâches -> Outils Gitlab
-             - Back -> Symfony 4.3
-             - Front -> HTML/CSS/Bootstrapp
-             - Gestion équipe -> GSuite/Mattermost
-             - Versionning -> Gitlab
-             - Sécurisation Code -> commitLint
-             - Conteneurisation -> Docker
-             - SgBDD -> MariaDB
-             - Requêtage -> DBeaver/PMA
-             - Méthodo -> Flux tiré"
+        tagline: ""
 
       - title: Image PHP/Nginx Docker
         link: "https://gitlab.com/nicolasmaurin/nginx_php7"
@@ -197,7 +166,7 @@ projects:
              - Versionning -> Gitlab
              - SgBDD -> MariaDB
              - Requêtage HTTP -> Insomnia
-             - Lib Python3 -> Flask | SQLAlchemy | Matplotlib "
+             - Lib Python3 -> Flask | SQLAlchemy | Matplotlib"
              
 publications:
     title: Outils/Methode
@@ -239,7 +208,7 @@ publications:
         conference: commitLint
         
       - title: Système d'exploitation
-        conference: Windows 10, Linux Manjaro, Linux Ubuntu
+        conference: Windows 10, Linux Manjaro, Linux Ubuntu, MacOs
        
 skills:
     title: compétences
