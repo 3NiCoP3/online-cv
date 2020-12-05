@@ -29,7 +29,7 @@ sidebar:
         level: Maternelle
 
       - idiom: Anglais
-        level: Professionnel
+        level: 705 au TOEIC 2020
 
     interests:
       - item: Rugby
@@ -132,42 +132,28 @@ projects:
     assignments:
       - title: Application tablette sous Android
         link: "https://gitlab.com/NicolasMaurin/frontera"
-        tagline: "Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android :
-             - IDE -> IntelliJ
-             - Gestion des tâches -> JIRA
-             - Front -> Flutter
-             - Gestion équipe -> Discord
-             - Versionning -> Gitlab
-             - Méthodo -> Flux tiré"   
+        tagline: "Dans le cadre de mon projet fil rouge (projet scolaire sur deux années) je devais réaliser le front d'une application commercial sur tablette Android en utilisant la technologie Flutter."
 
-      - title: Plateforme gestion d'équipe
-        link: "#"
-        tagline: ""
+      - title: Bot Discord
+        link: "https://github.com/3NiCoP3/kaamelott_discord_bot"
+        tagline: "Ce bot permettra de jouer des centaines des meilleurs répliques de la série Kaamelott dans un channel Vocal ou Textuel. Développé en NodeJS avec la librairie DiscordJS."
 
       - title: Image PHP/Nginx Docker
         link: "https://gitlab.com/nicolasmaurin/nginx_php7"
-        tagline: "Dans le but d'apprendre l'utilisation du Container Registry de Gitlab, j'ai créé une stack Docker PHP7+Nginx :
-             - IDE -> PHPStorm
-             - Versionning -> Gitlab
-             - Conteneurisation -> Docker"
+        tagline: "Dans le but d'apprendre l'utilisation du Container Registry de Gitlab, j'ai créé une stack Docker PHP7+Nginx."
              
       - title: Site pour la gestion de plan de bureau
         link: "https://gitlab.com/nicolasmaurin/project_java"
-        tagline: "Afin de valider nos compétences en JAVA, MAVEN, SPRINGBOOT, nous avons en groupe de trois, créé un site permettant l'aménagement d'un immeuble de bureaux (étages, zones, équipements, mobiliers, personnels) :
-             - IDE -> PHPStorm
-             - Versionning -> Gitlab
-             - SgBDD -> MariaDB
-             - Administration et Requêtage -> MySQL Workbench"
+        tagline: "Afin de valider nos compétences en JAVA, MAVEN, SPRINGBOOT, nous avons en groupe de trois, créé un site permettant l'aménagement d'un immeuble de bureaux (étages, zones, équipements, mobiliers, personnels)."
              
       - title: Gestion des données d'une station météo avec raspberry
         link: "https://gitlab.com/ElNelyo/flaskSensor"
-        tagline: "En groupe de deux personnes, nous devions gérer les données météo d'un raspberry reçu par une API, les comparer avec les données de météo France, et d'effectuer un graphique de l'ensemble. Tout cela en Python  :
-             - IDE -> IntelliJ
-             - Versionning -> Gitlab
-             - SgBDD -> MariaDB
-             - Requêtage HTTP -> Insomnia
-             - Lib Python3 -> Flask | SQLAlchemy | Matplotlib"
-             
+        tagline: "En groupe de deux personnes, nous devions gérer les données météo d'un raspberry reçu par une API, les comparer avec les données de météo France, et d'effectuer un graphique de l'ensemble. Tout cela en Python."
+
+      - title: Tutoriel pour déployer une base de donnée Oracle avec Docker
+        link: "https://github.com/3NiCoP3/docker_oracle_database"
+        tagline: "Afin de centraliser les infromations sur le déploiement d'une BDD Oracle avec Docker, j'ai crée un tutoriel en Anglais en regroupant différentes sources."
+
 publications:
     title: Outils/Methode
     intro: >
@@ -225,7 +211,10 @@ skills:
       
       - name: Suite Adobe (Illustrator, InDesign, Photoshop)
         level: 60%
-        
+
+      - name: NodeJS
+        level: 50%
+
       - name: Dart (Flutter)
         level: 40%
 
@@ -233,6 +222,6 @@ skills:
         level: 40%
         
       - name: Python 3(Flask, SQLAlchemy, Matplotlib)
-        level: 20%
+        level: 30%
 
 footer: MAURIN Nicolas
