@@ -168,8 +168,8 @@ projects:
         tagline: "Ce bot permettra de jouer des centaines des meilleurs répliques de la série Kaamelott dans un channel Vocal ou Textuel. Développé en NodeJS avec la librairie DiscordJS."
 
       - title: Image ReactJS + Typescript
-          link: "https://gitlab.com/nicolasmaurin/reactcv"
-          tagline: "Afin de débuter sur le framework ReactJS j'ai conçu une image pour la conception d'un CV."
+        link: "https://gitlab.com/nicolasmaurin/reactcv"
+        tagline: "Afin de débuter sur le framework ReactJS j'ai conçu une image pour la conception d'un CV."
 
       - title: Image PHP/Nginx Docker
         link: "https://gitlab.com/nicolasmaurin/nginx_php7"
