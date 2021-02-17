@@ -48,11 +48,11 @@ career-profile:
         En début de carrière professionnelle j'ai exploité mes compétences en électronique dans différents secteurs dont la sécurité électronique, le monde du spectacle et pour finir le nautisme. 
         
         Suite à une réorientation en 2018 dans le développement logiciel, j'ai obtenu un master 1 Responsable en Ingénierie des Logiciels au CESI de Bordeaux.
-        J'ai ensuite choisis de continuer ma scolarité à l’EPSI afin d’obtenir le diplôme master 2 Expert informatique et système d’information, avec une expertise en Développement logiciel et une spécialisation en Big Data.
+        J'ai ensuite choisi de continuer mon cursus à l’EPSI afin d’obtenir le diplôme master 2 Expert informatique et système d’information, avec une expertise en Développement logiciel et une spécialisation en Big Data.
 
-        La formation de l'EPSI prenant fin le 15 Mars 2021, je suis actuellement à la recherche d'une nouvelle aventure en CDI.
+        La formation de l'EPSI prenant fin le 12 Mars 2021, je suis actuellement à la recherche d'une nouvelle aventure en CDI.
         
-        Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
+        Vous pouvez retrouver chacun de mes projets sur Github ou Gitlab.
 
 education:
     - degree: Expert informatique, expertise Développement, spécilisation Big Data - Bac + 5
@@ -80,15 +80,16 @@ experiences:
       time: 2020 - En cours
       company: Etude Bocchio & Associés, Bordeaux
       details: |
-        Dans le cadre d'une évolution technique je devais apporter mon savoir et le transmettre à l'équipe :
-          - Proposition et formation sur les bonnes pratiques de développement (clean code, norme PSR...).
-          - Proposition et formation sur la philosophie DevOps (Containérisation, développement continue, Test-driven developement...).
-          - Initiation au pairing (Développement en binôme, utilisation des Merge Request)
-          - Support technique (PHP, Git)
-        Mon recrutement concernait aussi l'apport de compétences organisationelles :
+        Dans le cadre d'une évolution technique je devais apporter mon expertise auprès des équipes sur :
+          - Les bonnes pratiques de développement (clean code, norme PSR...)
+          - La philosophie DevOps (Containérisation, développement continue, Test-driven developement...)
+          - Le pairing (Développement en binôme, utilisation des Merge Request)
+          - Le support technique (PHP, Git)
+
+        Mon recrutement concernait aussi la contribution aux compétences organisationelles :
           - Eveil à l'agilité SCRUM (formation des utilisateurs, formation responsable MOA)
           - Proposition d'organisation du service SI (séparation équipe support et développement, évolution/changement d'outil ticketing...)
-          - Proposition (MOC et démontration) d'un Wiki (WikiJS) pour permettre le stockage de processus qui sont nombreux dans ce domaine d'activitées
+          - Proposition (MOC et démontration) d'un Wiki (WikiJS) pour permettre l'accessibilité aux nombreux processus de ce domaine d'activité
 
         Refactorisation d'un intranet :
           - Symfony 4.4
@@ -96,11 +97,13 @@ experiences:
           - JQuery
           - BDD Oracle
           - Intégration de PHPUnit
+
         Fork d'un outil ticketing OsTicket :
-          - Developpement de nouvelles fonctionalitées en PHP 5.6 / HTML / CSS
-          - Modification des fonctionnalitées native pour répondre aux besoins utilisateurs
+          - Developpement de nouvelles fonctionalités en PHP 5.6 / HTML / CSS
+          - Modification des fonctionnalités natives pour répondre aux besoins utilisateurs
+
         Maintenance système :
-          - Maintenance de Gitlab (Upgrade, mis en place d'un backup...)
+          - Maintenance de Gitlab (Upgrade, mis en place d'un backup, installation Registry...)
 
     - role: Developpeur Back End
       time: 2018 - 2020
@@ -169,7 +172,7 @@ projects:
 
       - title: Image ReactJS + Typescript
         link: "https://gitlab.com/nicolasmaurin/reactcv"
-        tagline: "Afin de débuter sur le framework ReactJS j'ai conçu une image pour la conception d'un CV."
+        tagline: "Afin de débuter sur le framework ReactJS j'ai conçu une image Docker pour la conception d'un CV."
 
       - title: Image PHP/Nginx Docker
         link: "https://gitlab.com/nicolasmaurin/nginx_php7"
@@ -190,7 +193,6 @@ projects:
 publications:
     title: Outils/Methode
     intro: >
-      Liste d'outils que j'utilise fréquemment
     papers:
       - title: Littérature
         conference: Clean Code Robert C.Martin, PHP 7 Avancé
