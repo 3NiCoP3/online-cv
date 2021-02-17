@@ -47,14 +47,17 @@ career-profile:
         Passioné depuis tout jeune par le monde de l'informatique et de l'électronique, j'ai su faire de mes passions mon métier.
         En début de carrière professionnelle j'ai exploité mes compétences en électronique dans différents secteurs dont la sécurité électronique, le monde du spectacle et pour finir le nautisme. 
         
-        Suite à une réorientation en 2018 dans le développement logiciel, je suis en cours d’obtention d’un master 1 Responsable en Ingénierie des Logiciels au CESI de Bordeaux. Dans le but de finaliser le cursus master, je viens d’être accepté à l’EPSI afin d’obtenir le diplôme master 2 Expert informatique et système d’information, avec une expertise en Développement logiciel et une spécialisation en Big Data.
+        Suite à une réorientation en 2018 dans le développement logiciel, j'ai obtenu un master 1 Responsable en Ingénierie des Logiciels au CESI de Bordeaux.
+        J'ai ensuite choisis de continuer ma scolarité à l’EPSI afin d’obtenir le diplôme master 2 Expert informatique et système d’information, avec une expertise en Développement logiciel et une spécialisation en Big Data.
+
+        La formation de l'EPSI prenant fin le 15 Mars 2021, je suis actuellement à la recherche d'une nouvelle aventure en CDI.
         
         Vous pouvez retrouver chacun des projets sur mes dêpots Github/Gitlab.
 
 education:
     - degree: Expert informatique, expertise Développement, spécilisation Big Data - Bac + 5
       university: EPSI
-      time: A partir de Septembre 2020
+      time: 2020 - 15 Mars 2021
       details: |
     - degree: Responsable en ingénierie des logiciels (RIL) - Bac + 4
       university: CESI
@@ -73,6 +76,32 @@ education:
       time: 2004 - 2006
       details: |
 experiences:
+    - role: Developpeur Back End
+      time: 2020 - En cours
+      company: Etude Bocchio & Associés, Bordeaux
+      details: |
+        Dans le cadre d'une évolution technique je devais apporter mon savoir et le transmettre à l'équipe :
+          - Proposition et formation sur les bonnes pratiques de développement (clean code, norme PSR...).
+          - Proposition et formation sur la philosophie DevOps (Containérisation, développement continue, Test-driven developement...).
+          - Initiation au pairing (Développement en binôme, utilisation des Merge Request)
+          - Support technique (PHP, Git)
+        Mon recrutement concernait aussi l'apport de compétences organisationelles :
+          - Eveil à l'agilité SCRUM (formation des utilisateurs, formation responsable MOA)
+          - Proposition d'organisation du service SI (séparation équipe support et développement, évolution/changement d'outil ticketing...)
+          - Proposition (MOC et démontration) d'un Wiki (WikiJS) pour permettre le stockage de processus qui sont nombreux dans ce domaine d'activitées
+
+        Refactorisation d'un intranet :
+          - Symfony 4.4
+          - Twig
+          - JQuery
+          - BDD Oracle
+          - Intégration de PHPUnit
+        Fork d'un outil ticketing OsTicket :
+          - Developpement de nouvelles fonctionalitées en PHP 5.6 / HTML / CSS
+          - Modification des fonctionnalitées native pour répondre aux besoins utilisateurs
+        Maintenance système :
+          - Maintenance de Gitlab (Upgrade, mis en place d'un backup...)
+
     - role: Developpeur Back End
       time: 2018 - 2020
       company: TimeOne, Pessac
@@ -138,6 +167,10 @@ projects:
         link: "https://github.com/3NiCoP3/kaamelott_discord_bot"
         tagline: "Ce bot permettra de jouer des centaines des meilleurs répliques de la série Kaamelott dans un channel Vocal ou Textuel. Développé en NodeJS avec la librairie DiscordJS."
 
+      - title: Image ReactJS + Typescript
+          link: "https://gitlab.com/nicolasmaurin/reactcv"
+          tagline: "Afin de débuter sur le framework ReactJS j'ai conçu une image pour la conception d'un CV."
+
       - title: Image PHP/Nginx Docker
         link: "https://gitlab.com/nicolasmaurin/nginx_php7"
         tagline: "Dans le but d'apprendre l'utilisation du Container Registry de Gitlab, j'ai créé une stack Docker PHP7+Nginx."
@@ -159,9 +192,14 @@ publications:
     intro: >
       Liste d'outils que j'utilise fréquemment
     papers:
-    
+      - title: Littérature
+        conference: Clean Code Robert C.Martin, PHP 7 Avancé
+
+      - title: Veille Technique
+        conference: Framablog.org, developpez.com, Hacker News, journalduhacker.net
+
       - title: IDE
-        conference: PHPStorm, IntelliJ
+        conference: PHPStorm, IntelliJ, VSCode
 
       - title: Administration et Requêtage
         conference: DBeaver, PMA
@@ -170,7 +208,7 @@ publications:
         conference: Gitlab CI/CD
 
       - title: Gestion de tickets & projet
-        conference: Redmine, Outils Gitlab
+        conference: Redmine, Outils Gitlab, OsTicket
         
       - title: Gestion tâches CRON
         conference: Airflow
@@ -185,7 +223,7 @@ publications:
         conference: Agile/Scrum
         
       - title: Communication/Planification
-        conference: Mattermost, GSuite
+        conference: Mattermost, GSuite, Teams
         
       - title: Conteneurisation
         conference: Docker, Docker Swarm
@@ -194,7 +232,7 @@ publications:
         conference: commitLint
         
       - title: Système d'exploitation
-        conference: Windows 10, Linux Manjaro, Linux Ubuntu, MacOs
+        conference: Windows 10 WSL2, Linux Manjaro, Linux Ubuntu, MacOs
        
 skills:
     title: compétences
@@ -208,20 +246,23 @@ skills:
 
       - name: HTML5 & CSS (Bootstrapp)
         level: 80%
-      
+
+      - name: Docker
+        level: 70%
+
       - name: Suite Adobe (Illustrator, InDesign, Photoshop)
-        level: 60%
+        level: 70%
 
       - name: NodeJS
         level: 50%
 
       - name: Dart (Flutter)
         level: 40%
-
-      - name: JAVA(JSE 1.8.0, Maven, SpringBoot)
-        level: 40%
         
       - name: Python 3(Flask, SQLAlchemy, Matplotlib)
         level: 30%
+
+      - name: JAVA(JSE 1.8.0, Maven, SpringBoot)
+        level: 20%
 
 footer: MAURIN Nicolas
