@@ -182,9 +182,9 @@ projects:
         link: "https://gitlab.com/nicolasmaurin/project_java"
         tagline: "Afin de valider nos compétences en JAVA, MAVEN, SPRINGBOOT, nous avons en groupe de trois, créé un site permettant l'aménagement d'un immeuble de bureaux (étages, zones, équipements, mobiliers, personnels)."
              
-      - title: Gestion des données d'une station météo avec raspberry
-        link: "https://gitlab.com/ElNelyo/flaskSensor"
-        tagline: "En groupe de deux personnes, nous devions gérer les données météo d'un raspberry reçu par une API, les comparer avec les données de météo France, et d'effectuer un graphique de l'ensemble. Tout cela en Python."
+      - title: Apprentissage par renforcement - Python 3.8
+        link: "https://gitlab.com/nicolasmaurin/laby_machine_learning"
+        tagline: "En Python 3.8 je devais créer un script pour résoudre le plus rapidement possible un labyrinthe comprenant un trésor."
 
       - title: Tutoriel pour déployer une base de donnée Oracle avec Docker
         link: "https://github.com/3NiCoP3/docker_oracle_database"
@@ -201,7 +201,7 @@ publications:
         conference: Framablog.org, developpez.com, Hacker News, journalduhacker.net
 
       - title: IDE
-        conference: PHPStorm, IntelliJ, VSCode
+        conference: PHPStorm, IntelliJ, VSCode, PyCharm
 
       - title: Administration et Requêtage
         conference: DBeaver, PMA
@@ -210,7 +210,7 @@ publications:
         conference: Gitlab CI/CD
 
       - title: Gestion de tickets & projet
-        conference: Redmine, Outils Gitlab, OsTicket
+        conference: Redmine, Gitlab, OsTicket, Youtrack
         
       - title: Gestion tâches CRON
         conference: Airflow
@@ -243,7 +243,7 @@ skills:
       - name: PHP (From Scratch, Symfony)
         level: 80%
         
-      - name: MySQL
+      - name: SQL
         level: 80%
 
       - name: HTML5 & CSS (Bootstrapp)
@@ -252,19 +252,16 @@ skills:
       - name: Docker
         level: 70%
 
-      - name: Suite Adobe (Illustrator, InDesign, Photoshop)
-        level: 70%
+      - name: Python 3(Flask, SQLAlchemy, Matplotlib, Numpy)
+        level: 60%
 
       - name: NodeJS
         level: 50%
 
       - name: Dart (Flutter)
         level: 40%
-        
-      - name: Python 3(Flask, SQLAlchemy, Matplotlib)
-        level: 30%
 
-      - name: JAVA(JSE 1.8.0, Maven, SpringBoot)
+      - name: JAVA(Maven, SpringBoot)
         level: 20%
 
 footer: MAURIN Nicolas
